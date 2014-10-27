@@ -6,6 +6,6 @@ Turret Game made in Unity3D and C#. In the game there are 2 Computer Controller 
 Build Instruction:- 
 Open \Assets\Scene\work.unity then press ctrl+b
 
-ScreenShoot:-
+ScreenShot:-
 
 ![](ScreenShot.jpg)
